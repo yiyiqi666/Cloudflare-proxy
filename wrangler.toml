@@ -1,0 +1,9 @@
+name = "cf-node"
+main = "_worker.js"
+compatibility_date = "2025-11-04"
+workers_dev = true
+keep_vars = true
+
+[[routes]]
+pattern = "p.yiyiqi.ccwu.cc"
+custom_domain = true
