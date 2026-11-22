@@ -5,6 +5,8 @@ workers_dev = true
 keep_vars = true
 no_bundle = true
 
+# auto-deploy test 2026-11-22
+
 [[routes]]
 pattern = "p.yiyiqi.ccwu.cc"
 custom_domain = true
