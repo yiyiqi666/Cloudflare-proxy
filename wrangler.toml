@@ -3,6 +3,7 @@ main = "_worker.js"
 compatibility_date = "2025-11-04"
 workers_dev = true
 keep_vars = true
+no_bundle = true
 
 [[routes]]
 pattern = "p.yiyiqi.ccwu.cc"
